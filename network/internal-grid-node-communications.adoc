@@ -129,6 +129,7 @@ If enterprise networking policies restrict access to any of these ports, you can
 | All nodes
 | Provides the multicast DNS (mDNS) service used for full-grid IP changes and for primary Admin Node discovery during installation, expansion, and recovery.
 
+*Note*: Configuring this port is optional.
 | 7001
 | TCP
 | Storage Nodes
@@ -249,4 +250,5 @@ If enterprise networking policies restrict access to any of these ports, you can
 
 link:external-communications.html[External communications]
 
+// 2025 NOV 3, SGRIDDOC-199
 // 2025 SEP 22, SGRIDDOC-195
